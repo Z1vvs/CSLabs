@@ -1,0 +1,20 @@
+{
+  "folder-color.pathColors": [
+    {
+      "folderPath": "SSLabs\\lab1\\server-3000\\",
+      "color": "foldercolorizer.color_00cc00"
+    },
+    {
+      "folderPath": "SSLabs\\lab1\\server-4000\\",
+      "color": "foldercolorizer.color_cc0066"
+    },
+    {
+      "folderPath": "SSLabs\\lab1\\server-5000\\",
+      "color": "foldercolorizer.color_ff6600"
+    },
+    {
+      "folderPath": "SSLabs\\lab1\\server-6000\\",
+      "color": "foldercolorizer.color_ccff00"
+    }
+  ]
+}

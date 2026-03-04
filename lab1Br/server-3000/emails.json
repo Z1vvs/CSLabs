@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "from": "Boss",
+    "subject": "Project Due",
+    "body": "Finish the lab ASAP."
+  },
+  {
+    "id": 2,
+    "from": "Mom",
+    "subject": "Dinner",
+    "body": "Are you coming home tonight?"
+  }
+]
